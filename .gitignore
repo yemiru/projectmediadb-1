@@ -1,3 +1,5 @@
 NOTES.txt
 build.properties
+build/
+dist/
 

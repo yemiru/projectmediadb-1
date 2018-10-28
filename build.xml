@@ -131,7 +131,7 @@
   <property name="catalina.home" value="/usr/share/tomcat"/>
   <property name="dist.home"     value="${basedir}/dist"/>
   <property name="docs.home"     value="${basedir}/docs"/>
-  <property name="manager.url"   value="http://projectmediadb.ddns.net:4434/manager/text"/>
+  <property name="manager.url"   value="http://projectmediadb.ddns.net:4434/manager/html"/>
   <property name="src.home"      value="${basedir}/src"/>
   <property name="web.home"      value="${basedir}/web"/>
 

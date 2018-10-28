@@ -82,6 +82,7 @@
 
          You can define any number of servlets, including zero.
     -->
+
     <!-- CONFIGURE EACH JAVA SERVLET HERE. CONFIGURE SERVLET-MAPPING IN A LOWER PORTION OF THE FILE
     <servlet>
       <servlet-name>controller</servlet-name>
